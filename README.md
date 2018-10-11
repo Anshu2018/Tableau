@@ -2,7 +2,8 @@
 # Tableau story -Story of Flight Delays and Cancellations.
 # By Anshu Shrivastava
 version 1: https://public.tableau.com/views/finalproject-v2/Story1?:embed=y&:display_count=yes&publish=yes
-version 2:
+version 2: https://public.tableau.com/profile/anshu2510#!/vizhome/finalproject_v3/Story2?publish=yes
+
 # Summary
 The data set contains information on United State flight delays and performance. The data comes from RITA. Here are some of the common terms and definitions:
 
