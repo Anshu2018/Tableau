@@ -20,6 +20,7 @@ WeatherDelay :	in minutes
 NASDelay :	in minutes
 SecurityDelay	: in minutes
 LateAircraftDelay	: in minutes
+
 The busiest airport is Atlanta followed by Chicago. Even though Atlanta has most flights the cancellations are not as high as Chicago. Chicago has 3 times more cancellations compared to Atlanta.
 If we look at the carriers, the American Eagle Airlines has the maximum cancellations followed by American Airlines. On the other hand Southwest Airlines has maximum diversions and is in the top four airlines for cancellations as well. The main reason for cancellation seems to be weather followed by Carrier.
 Bellingham leads in weather delays. The month of December has most arrival and departure delays which could be due to snow or icy conditions, with minimum delays during the month of September and October.
